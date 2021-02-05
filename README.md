@@ -30,6 +30,7 @@ My name is Estom Junior, i'm Software Engineer.
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 <br>
 <div/>
+  ---
 
 - 💪 Working on a lot of web projects at [@Accenture](https://www.accenture.com/br-pt);
 - 🧠 Learning about Node.Js and data persistence;
