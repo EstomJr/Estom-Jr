@@ -4,20 +4,21 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/estom-paulino-5aa91917b/)](https://www.linkedin.com/in/estom-paulino-5aa91917b/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:estuzinho98@gmail.com)](mailto:estuzinho98@gmail.com)
 
-### Olá, bem vindo ao perfil.
+### Hello, wellcome to my profile.
 
-Meu nome é Estom Junior, sou Engenheiro de Sofware Jr.
+My name is Estom Junior, i'm Software Engineer.
 
-- :office_worker: Atualmente estou trabalhando como desenvolvedor junior Java.
-- :blue_heart: Techs: Java, Spring, Node.js, React, MySQL entre outras.
-- :books: Bacharelando em Sistemas de Informação - UFRPE :heart:
--  🌱 No momento estudando Node.js.
+- :office_worker: currently currently working as a junior java developer.
+- :blue_heart: Techs: Java, Spring, Node.js, React, MySQL among others.
+- :books: Studying System Information at UFRPE :heart:
 
 ---
 
   [![Github Status](https://github-readme-stats.vercel.app/api?username=EstomJr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/EstomJr)
 
-## Algumas tecnologias
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstomJr&layout=compact&theme=dracula&hide=pascal)](https://github.com/EstomJr/)
+
+## Some technologies
 
 <div>
  <br>
@@ -29,3 +30,7 @@ Meu nome é Estom Junior, sou Engenheiro de Sofware Jr.
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 <br>
 <div/>
+
+- 💪 Working on a lot of web projects at [@Accenture](https://www.accenture.com/br-pt);
+- 🧠 Learning about Node.Js and data persistence;
+- 🗣 Let’s talk about Javascript, Java and Data, shall we? 
