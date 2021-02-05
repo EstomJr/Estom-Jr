@@ -8,7 +8,7 @@
 
 My name is Estom Junior, i'm Software Engineer.
 
-- :office_worker: currently currently working as a junior java developer.
+- :office_worker: currently working as a junior java developer.
 - :blue_heart: Techs: Java, Spring, Node.js, React, MySQL among others.
 - :books: Studying System Information at UFRPE :heart:
 
