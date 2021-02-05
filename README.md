@@ -17,6 +17,10 @@ My name is Estom Junior, i'm Software Engineer.
   [![Github Status](https://github-readme-stats.vercel.app/api?username=EstomJr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/EstomJr)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstomJr&layout=compact&theme=dracula&hide=pascal)](https://github.com/EstomJr/)
+  
+  - 💪 Working on a lot of web projects at [@Accenture](https://www.accenture.com/br-pt);
+  - 🧠 Learning about Node.Js and data persistence;
+  - 🗣 Let’s talk about Javascript, Java and Data, shall we? 
 
 ## Some technologies
 
@@ -30,8 +34,6 @@ My name is Estom Junior, i'm Software Engineer.
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 <br>
 <div/>
-  ---
 
-- 💪 Working on a lot of web projects at [@Accenture](https://www.accenture.com/br-pt);
-- 🧠 Learning about Node.Js and data persistence;
-- 🗣 Let’s talk about Javascript, Java and Data, shall we? 
+
+
