@@ -18,7 +18,7 @@ My name is Estom Junior, i'm Software Engineer.
 
 
   
-  - 💪 Working on a lot of web projects at [@MV](https://mv.com.br/);
+
   - 🧠 Learning about Node.Js and data persistence;
   - 🗣 Let’s talk about Javascript, Java and Data, shall we? 
 
